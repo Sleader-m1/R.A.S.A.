@@ -13,7 +13,7 @@
 // #define WIFI_PASS "yuriy147950"
 #define WIFI_SSID "Abdullaev internet"
 #define WIFI_PASS "12345678"
-#define BOT_TOKEN "7308999524:AAGlTa0I6LG2YDKKHipOn95s8PKxJOrvMfs"
+#define BOT_TOKEN "--------------------------------"
 #define CHAT_ID1 "390056126"
 #define CHAT_ID2 "626236748"
 #define CHAT_ID3 "873902520"
